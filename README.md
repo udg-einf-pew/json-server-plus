@@ -11,7 +11,7 @@ This version adds:
 
 Prerequisites:
 
-* [Nodejs](https://nodejs.org) installed
+* [Nodejs 14](https://nodejs.org/download/release/v14.18.3/) installed
 
 
 To run the application:
